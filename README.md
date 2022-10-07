@@ -6,7 +6,7 @@ Steetball-chat is developed by Scoreur App Technology.
 
   <br>
  <p align="center"> 
-  ##  Projet en cours de développement  ##
+ ##  Projet en cours de développement  ##
 </p>
 
   <br>
