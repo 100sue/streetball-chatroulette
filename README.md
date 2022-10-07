@@ -5,9 +5,7 @@
 Steetball-chat is developed by Scoreur App Technology.
 
   <br>
- <p align="center"> 
-##  Projet en cours de développement  ##
-</p>
+ <p align="center">##  Projet en cours de développement  ##</p>
 
   <br>
   Nous allons mettre en place un chat video en temps réel, en utilisant les WebRTC et notamment la librairie PeerJS.
@@ -17,10 +15,8 @@ Steetball-chat is developed by Scoreur App Technology.
   Tout cela sera relié avec une base de données Firebase qui nous permettra de persister les données de chaque room grâce au service Firestore.
  
   <br>
-Ce projet utilisera NodeJs, Express Firestore et firebase Db . 
- <br>
  
- ## WebRTC : petit rappel ##
+ ## WebRTC : c'est quoi ? ##
  
  <br>
  Le WebRTC, qui signifie Web Real-Time Communications (Communications Web en temps réel), est un projet open source – présenté par Google, Mozilla et d'autres – qui permet des communications en temps réel sans plugin via une API Javascript.
@@ -38,6 +34,9 @@ Ce type de protocole permet de faire passer la téléphonie directement par le r
 - HTML5, CSS3, JavaScript, Node.js, Vue.js, Express, firebase, WebRTC.
 - Dependances : ejs, PeerJS, socket.io.
 
+ <br>
+ Ce projet utilisera NodeJs, Express Firestore et firebase Db . 
+ 
  <br>
 
  ## Installation des prérequis et lancement de l'application : ##
