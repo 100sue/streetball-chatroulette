@@ -25,6 +25,7 @@ Steetball-chat is developed by Scoreur App Technology.
  <br>
  WebRTC utilise un serveur appelé Web Conferencing Server qui, conjointement à un serveur STUN, est nécessaire pour fournir la page initiale et synchroniser les connexions entre deux points de terminaison WebRTC.
  <br>
+ <br>
  Pourquoi le WebRTC ?
  <br>
 Ce type de protocole permet de faire passer la téléphonie directement par le réseau internet. Plus simplement, le WebRTC permet à vos téléconseillers d'appeler et de recevoir des appels directement depuis internet sans rien installer au préalable !
