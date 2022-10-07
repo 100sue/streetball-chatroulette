@@ -13,7 +13,7 @@ Steetball-chat is developed by Scoreur App Technology.
   Nous mettrons en place un serveur NodeJS qui utilisera le Framework Express pour gérer les routes.
   <br>
   Tout cela sera relié avec une base de données Firebase qui nous permettra de persister les données de chaque room grâce au service Firestore.
- 
+   <br>
   <br>
   
    <p align="center">
