@@ -74,13 +74,9 @@ Lancez l'application : ouvrez l'application en cliquant sur http://localhost:300
 
 Pour l'Utilisation de l'application : 
 
-- Créez votre compte
+- Créez votre compte.
+     
 <br>
-<p align="center">
- <img src="https://user-images.githubusercontent.com/90606431/194548284-e3ae7adb-c609-4cab-995d-19756f2381e9.jpeg")/>
-
-<br>
-
 <br>
 
 ### Project  : Scoreur App ###
@@ -90,8 +86,24 @@ Pour l'Utilisation de l'application :
 - HTML5, CSS3, JavaScript, Node.js, Vue.js, Express, firebase, WebRTC.
 - Dependances : ejs, PeerJS, socket.io.
 
-
 <br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/90606431/194548284-e3ae7adb-c609-4cab-995d-19756f2381e9.jpeg")/>
+<br>
+## WebRTC : What it is ? ##
+  
+  WebRTC, which stands for Web Real-Time Communications, is an open-source project – featured by Google, Mozilla, and others – that enables plugin-less real-time communications via a JavaScript API.
+ <br>
+ This system facilitates browser-to-browser applications for voice calls, video chat, and file sharing. VP8 is the currently supported codec for WebRTC.
+ <br>
+ WebRTC uses a server called Web Conferencing Server which, together with a STUN server, is needed to provide the initial page and synchronize connections between two WebRTC endpoints.
+ <br>
+ <br>
+ Why WebRTC?
+ <br>
+This type of protocol allows telephony to pass directly through the Internet network. More simply, the WebRTC allows your telephone advisers to call and receive calls directly from the internet without installing anything beforehand!
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/90606431/194548325-c42c3cc4-a247-422f-b54f-9f0bde48b8cc.png")/>
 
