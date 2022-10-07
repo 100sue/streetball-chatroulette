@@ -21,7 +21,13 @@ Steetball-chat is developed by Scoreur App Technology.
   <br>
 Ce projet utilisera NodeJs, Express Firestore et firebase Db . 
  <br>
-
+ ## WebRTC : petit rappel. ##
+ <br>
+ Le WebRTC, qui signifie Web Real-Time Communications (Communications Web en temps réel), est un projet open source – présenté par Google, Mozilla et d'autres – qui permet des communications en temps réel sans plugin via une API Javascript. Ce système facilite les applications de navigateur à navigateur pour les appels vocaux, le chat vidéo et le partage de fichiers. VP8 est le codec actuellement pris en charge pour WebRTC. WebRTC utilise un serveur appelé Web Conferencing Server qui, conjointement à un serveur STUN, est nécessaire pour fournir la page initiale et synchroniser les connexions entre deux points de terminaison WebRTC.
+ 
+ <br>
+ Pourquoi le WebRTC ?
+Ce type de protocole permet de faire passer la téléphonie directement par le réseau internet. Plus simplement, le WebRTC permet à vos téléconseillers d'appeler et de recevoir des appels directement depuis internet sans rien installer au préalable !
 
  ## Technologies utilisées : ##
  
