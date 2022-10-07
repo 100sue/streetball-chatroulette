@@ -15,6 +15,11 @@ Steetball-chat is developed by Scoreur App Technology.
   Tout cela sera relié avec une base de données Firebase qui nous permettra de persister les données de chaque room grâce au service Firestore.
  
   <br>
+  
+   <p align="center">
+ <img src="https://user-images.githubusercontent.com/90606431/194546563-ea8288e7-d52b-4c3f-98bd-abdfed095960.png")/>
+  
+ <br>
  
  ## WebRTC : c'est quoi ? ##
  
@@ -28,6 +33,13 @@ Steetball-chat is developed by Scoreur App Technology.
  Pourquoi le WebRTC ?
  <br>
 Ce type de protocole permet de faire passer la téléphonie directement par le réseau internet. Plus simplement, le WebRTC permet à vos téléconseillers d'appeler et de recevoir des appels directement depuis internet sans rien installer au préalable !
+
+<br>
+   <p align="center">
+ <img src="https://user-images.githubusercontent.com/90606431/194547292-96ced190-6ce1-4098-a112-81f01adb34bd.png")/>
+
+<br>
+
 
  ## Technologies utilisées : ##
  
