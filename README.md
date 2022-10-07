@@ -10,7 +10,9 @@ Steetball-chat is developed by Scoreur App Technology.
 </p>
 
   <br>
-  Nous allons mettre en place un chat video en temps réel, en utilisant les WebRTC et notamment la librairie PeerJS. Nous mettrons en place un serveur NodeJS qui utilisera le Framework Express pour gérer les routes.
+  Nous allons mettre en place un chat video en temps réel, en utilisant les WebRTC et notamment la librairie PeerJS.
+   <br>
+  Nous mettrons en place un serveur NodeJS qui utilisera le Framework Express pour gérer les routes.
   Tout cela sera relié avec une base de données Firebase qui nous permettra de persister les données de chaque room grâce au service Firestore.
 
 
@@ -18,7 +20,6 @@ Steetball-chat is developed by Scoreur App Technology.
 
 Ce projet utilisera NodeJs, Express Firestore et firebase Db . 
  <br>
-Projet M.E.V.N (Mongo, Express, Vue, Node).
 
 
  ## Technologies utilisées : ##
