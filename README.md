@@ -75,16 +75,27 @@ Lancez l'application : ouvrez l'application en cliquant sur http://localhost:300
 Pour l'Utilisation de l'application : 
 
 - Créez votre compte
+<br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/90606431/194548284-e3ae7adb-c609-4cab-995d-19756f2381e9.jpeg")/>
 
+<br>
 
- ### Project  : Scoreur App ###
+<br>
 
+### Project  : Scoreur App ###
 
 ## Technologies, software, languages, frameworks, plugins used : ##
 
-- HTML5, CSS3, JavaScript, Node.js, Express, OWASP & RGPD Standards.
+- HTML5, CSS3, JavaScript, Node.js, Vue.js, Express, firebase, WebRTC.
+- Dependances : ejs, PeerJS, socket.io.
 
 
 <br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90606431/194548325-c42c3cc4-a247-422f-b54f-9f0bde48b8cc.png")/>
+
+<br>
+
 
 
